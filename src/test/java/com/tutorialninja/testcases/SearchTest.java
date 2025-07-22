@@ -12,7 +12,7 @@ import com.tutorialninja.base.Base;
 import com.tutorialninja.pages.HomePage;
 import com.tutorialninja.pages.SearchPage;
 
-//Updated Changes
+//Updated Changes - added more details
 
 public class SearchTest extends Base{
 	public WebDriver driver;
